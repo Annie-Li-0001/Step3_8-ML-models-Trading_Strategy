@@ -1,0 +1,17 @@
+scikit-learn
+jqdatasdk
+statsmodels
+pandas==1.5.3
+seaborn
+jupyterlab-lsp
+jupyterlab-spreadsheet
+jlab-enhanced-cell-toolbar
+jupyterlab-logout
+jupyterlab-link-share
+jupyterlab-topbar-text
+jupyterlab-theme-toggler
+jupyterlab-unfold
+jupyterlab-code-formatter
+jupyterlab_execute_time
+tenacity
+xgboost
