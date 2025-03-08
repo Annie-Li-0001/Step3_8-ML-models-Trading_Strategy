@@ -1,6 +1,6 @@
 ## **Comparative Analysis of Machine Learning Stock Selection Models with Embedded-Wrapper Coordinated Screening**
    
-
+  
 ### **Introduction**
 Constructed a 29-dimensional factor matrix,  spanning six key dimensions: value investing (EP/BP/SP/CFP), financial health (Debt-to-Equity Ratio/Cash Ratio/Current Ratio), profitability (GPM/ROE/ROA), growth potential (Sales_Qtrly_Growth/Profit_Qtrly_Growth), technical momentum (RSI/MACD/ARBR), and liquidity features (5D_Volume/60D_Volume/20D_Skewness). In our developed Embedded-Wrapper hybrid screening framework, Random Forest's Gini importance analysis revealed:
 
